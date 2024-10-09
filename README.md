@@ -5,7 +5,7 @@
 </p>
 
 <h1>Windows Server</h1>
-Imagine this scenario: you are using the CorpFiles16 server as a file server. You can do basic file server management for network users, but you need to be able to perform the following file server management tasks:
+Imagine this scenario: you're using the CorpFiles16 server as a file server. You can do basic file server management for network users, but you need to be able to perform the following file server management tasks:
 
 - Define policies that prevent users from saving .wmv files in the home folders stored on the server.
 - Share files with UNIX-based clients.
